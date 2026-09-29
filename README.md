@@ -21,7 +21,7 @@ I'm particularly interested in **AI agents, agent orchestration, MCP, automation
 
 ## ⭐ Featured Project
 
-### [Agent Orchestrator](https://github.com/ankulalwani/agent-orchestrator)
+### [Agent Orchestration](https://github.com/ankulalwani/agent-orchestration)
 
 An open-source platform for running AI coding agents across multiple machines with **task orchestration, worker management, verification, recovery, Git workflows, and observability**.
 
